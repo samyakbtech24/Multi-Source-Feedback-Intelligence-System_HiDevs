@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 # AI Feedback Intelligence Platform
 
 A production-grade, asynchronous customer feedback analytics dashboard and automated triaging service. 
 
-This platform enables teams to ingest customer reviews via CSV logs, categorize issues, detect sentiments, check processing latency, audit system health, and generate drafts of support email replies automatically using **Gemini 2.5/2.0/1.5** models.
+This platform enables teams to ingest customer reviews via CSV logs, categorize issues, detect sentiments, check processing latency, audit system health, and generate drafts of support email replies automatically using **Gemini 2.5/2.0/3.5** models.
 
 ---
 
@@ -78,7 +77,7 @@ multisource-feedback/
    cd multisource-feedback
    ```
 
-2. Open the `.env` file and insert your Gemini API Key and desired model configuration:
+2. Create a `.env` file and insert your Gemini API Key and desired model configuration:
    ```env
    GEMINI_API_KEY=your_gemini_api_key
    GEMINI_MODEL=gemini-2.5-flash
@@ -153,12 +152,8 @@ To run the application locally for quick debugging using **SQLite**:
    Open [http://localhost:5173](http://localhost:5173).
 =======
 # Multi-Source Feedback Intelligence System
-
-This project is automatically generated.
-
 ## Installation
 
 ```sh
 pip install -r requirements.txt
 ```
->>>>>>> f95841fd419a5febbf9cef50c89fcd41a98f133f
