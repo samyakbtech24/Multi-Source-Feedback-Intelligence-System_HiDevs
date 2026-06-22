@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Environment Variables (Contains Private API Keys - CRITICAL)
 .env
 .env.local
@@ -48,3 +49,15 @@ postgres_data/
 # OS System Files
 .DS_Store
 Thumbs.db
+=======
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+.DS_Store
+node_modules/
+.idea/
+.vscode/
+*.log
+>>>>>>> f95841fd419a5febbf9cef50c89fcd41a98f133f

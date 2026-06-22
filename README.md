@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Feedback Intelligence Platform
 
 A production-grade, asynchronous customer feedback analytics dashboard and automated triaging service. 
@@ -150,3 +151,14 @@ To run the application locally for quick debugging using **SQLite**:
    npm run dev
    ```
    Open [http://localhost:5173](http://localhost:5173).
+=======
+# Multi-Source Feedback Intelligence System
+
+This project is automatically generated.
+
+## Installation
+
+```sh
+pip install -r requirements.txt
+```
+>>>>>>> f95841fd419a5febbf9cef50c89fcd41a98f133f
