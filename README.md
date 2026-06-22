@@ -150,7 +150,6 @@ To run the application locally for quick debugging using **SQLite**:
    npm run dev
    ```
    Open [http://localhost:5173](http://localhost:5173).
-=======
 # Multi-Source Feedback Intelligence System
 ## Installation
 
