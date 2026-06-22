@@ -156,3 +156,9 @@ To run the application locally for quick debugging using **SQLite**:
 ```sh
 pip install -r requirements.txt
 ```
+
+## Project Screenshots
+<img width="1918" height="971" alt="Screenshot 2026-06-22 182304" src="https://github.com/user-attachments/assets/d104900f-f18b-4fef-a701-91d9887649f5" />
+---
+<img width="1918" height="971" alt="Screenshot 2026-06-22 182250" src="https://github.com/user-attachments/assets/874dc292-b78c-4a1d-b082-7481e580d4dc" />
+
